@@ -4,7 +4,7 @@ import '../App.css';
 function App() {
     return (
         <a className = "App-link"
-        href = "https://github.com/thvinhtruong/seraphine"> Contact us! </a>  
+        href = "mailto:joel.dubroy1986@gmail.com"> Contact us! </a>  
         );
     }
     
